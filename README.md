@@ -1,5 +1,7 @@
 # HexamatchFractions
 
+Fractions Brain training excercise by Naadir.
+
 HexaMatch is a browser-based mini-game designed to help beginners build intuition for fractions by clicking hexagon tiles whose values sum to a target fraction or percentage before time runs out.
 
 ## Gameplay
