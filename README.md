@@ -1,4 +1,4 @@
-# HexamatchFractions
+# Hexamatch
 
 Fractions Brain training excercise by Naadir.
 
